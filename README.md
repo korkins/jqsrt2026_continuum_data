@@ -8,3 +8,6 @@ S. Korkin, A. M. Sayer, A. Ibrahim, and A. Lyapustin, *A Practical Guide to Simu
 3. Nothing is zipped in /fig13/
 4. In each folder, there is one Python file - run it
 5. Compare against "__check" files (2 jpg - one per folder - and 1 txt in /fig12).
+
+## Notes, Corrections
+None now
